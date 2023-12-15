@@ -1,3 +1,9 @@
 body{
-    background: #BDBDBD;
+    background: white;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: column;
 }
