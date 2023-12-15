@@ -2,8 +2,3 @@ body{
     background: white;
     
 }
-
-.container {
-    display: flex;
-    justify-content: column;
-}
